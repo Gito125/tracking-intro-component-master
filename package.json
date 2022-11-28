@@ -1,0 +1,15 @@
+{
+  "name": "tracking-intro-component-master",
+  "version": "1.0.0",
+  "description": "This is a frontend mentor challenge to test design and simple layout skills. I did this project to test my ney tailwindcss skills.",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss -i src/inputStyles.css -o public/styles.css --watch"
+  },
+  "author": "Ogwang Gift Gideon",
+  "license": "ISC"
+}

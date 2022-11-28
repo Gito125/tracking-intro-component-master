@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+    .illustration-devices {
+    width: 800px;
+    right: -350px;
+    top: 3.5rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .illustration-devices {
+    width: 500px;
+    top: 5.5rem;
+  }
+}
